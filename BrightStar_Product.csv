@@ -1,0 +1,36 @@
+product_id,name,listed_price,category,sub_category,
+1,Stylish Maxi Dress,59.99,Clothing,Dresses
+2,Chic Maxi Dress,99.99,Clothing,Dresses
+3,Elegant Maxi Dress,129.99,Clothing,Dresses
+4,Stylish Midi Dress,49.99,Clothing,Dresses
+5,Chic Midi Dress,99.99,Clothing,Dresses
+6,Elegant Midi Dress,119.99,Clothing,Dresses
+7,Stylish T-Shirt,29.99,Clothing,Tops
+8,Chic T-Shirt,39.99,Clothing,Tops
+9,Chic Sweater,59.99,Clothing,Tops
+10,Stylish Shorts,29.99,Clothing,Pants
+11,Elegant Trousers,49.99,Clothing,Pants
+12,Elegant Jacket,149.99,Clothing,Outerwear
+13,Chic Sneakers,69.99,Footwear,Shoes
+14,Elegant Loafers,49.99,Footwear,Shoes
+15,Stylish High Heels,69.99,Footwear,Shoes
+16,Chic High Heels,99.99,Footwear,Shoes
+17,Stylish Leather Boots,99.99,Footwear,Shoes
+18,Elegant Leather Boots,129.99,Footwear,Shoes
+19,Chic Ankle Boots,49.99,Footwear,Shoes
+20,Stylish Flip Flops,19.99,Footwear,Sandals
+21,Elegant Flip Flops,29.99,Footwear,Sandals
+22,Chic Gladiator Sandals,49.99,Footwear,Sandals
+23,Elegant Gladiator Sandals,64.99,Footwear,Sandals
+24,Chic Necklace,12.99,Accessories,Jewelry
+25,Elegant Necklace,19.99,Accessories,Jewelry
+26,Chic Bracelet,15.99,Accessories,Jewelry
+27,Elegant Bracelet,19.99,Accessories,Jewelry
+28,Chic Earrings,18.99,Accessories,Jewelry
+29,Elegant Earrings,24.99,Accessories,Jewelry
+30,Stylish Round Sunglasses,24.99,Accessories,Sunglasses
+31,Stylish Backpack,69.99,Accessories,Bags
+32,Chic Tote Bag,49.99,Accessories,Bags
+33,Elegant Toner,24.99,Beauty,Skincare
+34,Chic Foundation,19.99,Beauty,Makeup
+35,Chic Conditioner,29.99,Beauty,Haircare

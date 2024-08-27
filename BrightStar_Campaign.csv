@@ -1,0 +1,77 @@
+campaign_id,name,start_date,end_date,budget,discount,target_audience,objective
+1,Spring Sale,3/14/18,3/24/18,2530.45,,All Customers,Increase sales
+2,Summer Blowout,6/1/18,8/1/18,,0.20,Members,Clear old stock
+3,Christmas Promotion,12/10/18,12/25/18,7500.00,,All Customers,Boost holiday sales
+4,Holiday Advertisement,11/15/19,11/30/19,4500.00,,New Customers,Increase brand awareness
+5,Labor Day Weekend Sale,9/1/19,9/4/19,,0.15,Returning Customers,Increase sales
+6,New Year Promotion,1/1/20,1/10/20,3200.00,,All Customers,Promote new products
+7,Back to School Sale,8/15/18,9/15/18,,0.25,Premium Members,Drive membership signups
+8,Black Friday Deal,11/27/20,11/27/20,,0.50,All Customers,Boost holiday sales
+9,Cyber Monday Sale,11/30/20,11/30/20,,0.30,New Customers,Increase sales
+10,Valentine's Day Special,2/10/20,2/14/20,6000.00,,All Customers,Promote new products
+11,Spring Sale,3/5/19,4/4/19,3795.94,,All Customers,Increase sales
+12,Summer Blowout,6/12/19,7/12/19,,0.18,Members,Clear old stock
+13,Christmas Promotion,12/10/19,12/25/19,6700.00,,All Customers,Boost holiday sales
+14,Holiday Advertisement,11/5/19,11/20/19,5200.00,,New Customers,Increase brand awareness
+15,Labor Day Weekend Sale,9/1/20,9/4/20,,0.15,Returning Customers,Increase sales
+16,New Year Promotion,1/1/20,1/10/20,4000.00,,All Customers,Promote new products
+17,Back to School Sale,8/15/19,9/15/19,,0.20,Premium Members,Drive membership signups
+18,Black Friday Deal,11/26/21,11/26/21,,0.50,All Customers,Boost holiday sales
+19,Cyber Monday Sale,11/29/21,11/29/21,,0.35,New Customers,Increase sales
+20,Valentine's Day Special,2/10/21,2/14/21,5000.00,,All Customers,Promote new products
+21,Spring Sale,3/15/20,4/14/20,3200.00,,All Customers,Increase sales
+22,Summer Blowout,6/1/20,8/1/20,,0.25,Members,Clear old stock
+23,Christmas Promotion,12/10/20,12/25/20,8500.00,,All Customers,Boost holiday sales
+24,Holiday Advertisement,11/15/20,11/30/20,6100.00,,New Customers,Increase brand awareness
+25,Labor Day Weekend Sale,9/1/21,9/4/21,,0.20,Returning Customers,Increase sales
+26,New Year Promotion,1/1/21,1/10/21,3900.00,,All Customers,Promote new products
+27,Back to School Sale,8/15/20,9/15/20,,0.15,Premium Members,Drive membership signups
+28,Black Friday Deal,11/26/21,11/26/21,,0.40,All Customers,Boost holiday sales
+29,Cyber Monday Sale,11/29/21,11/29/21,,0.30,New Customers,Increase sales
+30,Valentine's Day Special,2/10/21,2/14/21,4700.00,,All Customers,Promote new products
+31,Spring Sale,3/10/20,4/10/20,3100.00,,All Customers,Increase sales
+32,Summer Blowout,6/1/20,8/1/20,,0.22,Members,Clear old stock
+33,Christmas Promotion,12/10/20,12/25/20,8200.00,,All Customers,Boost holiday sales
+34,Holiday Advertisement,11/15/20,11/30/20,5900.00,,New Customers,Increase brand awareness
+35,Labor Day Weekend Sale,9/1/21,9/4/21,,0.10,Returning Customers,Increase sales
+36,New Year Promotion,1/1/21,1/10/21,3400.00,,All Customers,Promote new products
+37,Back to School Sale,8/15/20,9/15/20,,0.20,Premium Members,Drive membership signups
+38,Black Friday Deal,11/26/21,11/26/21,,0.45,All Customers,Boost holiday sales
+39,Cyber Monday Sale,11/29/21,11/29/21,,0.35,New Customers,Increase sales
+40,Valentine's Day Special,2/10/21,2/14/21,4900.00,,All Customers,Promote new products
+41,Spring Sale,3/10/21,4/10/21,3000.00,,All Customers,Increase sales
+42,Summer Blowout,6/1/21,8/1/21,,0.22,Members,Clear old stock
+43,Christmas Promotion,12/10/21,12/25/21,9000.00,,All Customers,Boost holiday sales
+44,Holiday Advertisement,11/15/21,11/30/21,7000.00,,New Customers,Increase brand awareness
+45,Labor Day Weekend Sale,9/1/21,9/4/21,,0.18,Returning Customers,Increase sales
+46,New Year Promotion,1/1/21,1/10/21,4500.00,,All Customers,Promote new products
+47,Back to School Sale,8/15/21,9/15/21,,0.20,Premium Members,Drive membership signups
+48,Black Friday Deal,11/26/21,11/26/21,,0.50,All Customers,Boost holiday sales
+49,Cyber Monday Sale,11/29/21,11/29/21,,0.30,New Customers,Increase sales
+50,Valentine's Day Special,2/10/21,2/14/21,5500.00,,All Customers,Promote new products
+51,Spring Sale,3/10/22,4/10/22,3200.00,,All Customers,Increase sales
+52,Summer Blowout,6/1/22,8/1/22,,0.20,Members,Clear old stock
+53,Christmas Promotion,12/10/22,12/25/22,8700.00,,All Customers,Boost holiday sales
+54,Holiday Advertisement,11/15/22,11/30/22,6900.00,,New Customers,Increase brand awareness
+55,Labor Day Weekend Sale,9/1/22,9/4/22,,0.15,Returning Customers,Increase sales
+56,New Year Promotion,1/1/22,1/10/22,4300.00,,All Customers,Promote new products
+57,Back to School Sale,8/15/22,9/15/22,,0.22,Premium Members,Drive membership signups
+58,Black Friday Deal,11/25/22,11/25/22,,0.50,All Customers,Boost holiday sales
+59,Cyber Monday Sale,11/28/22,11/28/22,,0.33,New Customers,Increase sales
+60,Valentine's Day Special,2/10/22,2/14/22,5300.00,,All Customers,Promote new products
+61,Spring Sale,3/10/23,4/10/23,3400.00,,All Customers,Increase sales
+62,Summer Blowout,6/1/23,8/1/23,,0.25,Members,Clear old stock
+63,Christmas Promotion,12/10/23,12/25/23,9100.00,,All Customers,Boost holiday sales
+64,Holiday Advertisement,11/15/23,11/30/23,7100.00,,New Customers,Increase brand awareness
+65,Labor Day Weekend Sale,9/1/23,9/4/23,,0.20,Returning Customers,Increase sales
+66,New Year Promotion,1/1/23,1/10/23,4700.00,,All Customers,Promote new products
+67,Back to School Sale,8/15/23,9/15/23,,0.20,Premium Members,Drive membership signups
+68,Black Friday Deal,11/24/23,11/24/23,,0.50,All Customers,Boost holiday sales
+69,Cyber Monday Sale,11/27/23,11/27/23,,0.30,New Customers,Increase sales
+70,Valentine's Day Special,2/10/23,2/14/23,5600.00,,All Customers,Promote new products
+71,Spring Sale,3/10/24,4/10/24,3600.00,,All Customers,Increase sales
+72,New Year Promotion,1/1/24,1/10/24,5000.00,,All Customers,Promote new products
+73,Valentine's Day Special,2/10/24,2/14/24,5700.00,,All Customers,Promote new products
+74,Spring Sale,3/10/24,4/10/24,3800.00,,All Customers,Increase sales
+75,New Year Promotion,1/1/24,1/10/24,5200.00,,All Customers,Promote new products
+76,Valentine's Day Special,2/10/24,2/14/24,5700.00,,All Customers,Promote new products
