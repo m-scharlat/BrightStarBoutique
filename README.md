@@ -5,11 +5,11 @@ A project involving using SQL to set up a relational database model for an indep
 
 # BrightStar Boutique: Performance Dashboard
 
-
+<div align="center"><img alt="BrightStar Boutique Performance Dashboard" src="https://github.com/user-attachments/assets/cb5268fe-0946-429b-be98-ddaba67e96d8"</div>
 
 # BrightStar Boutique: Sales Report (Product Category/Sub-Category)
 
-<div align="center"><img alt="Product Category_Sub-Category Report" src="https://github.com/user-attachments/assets/27e9c1ea-f662-4763-9a8e-f84e633c2cd2"</div>
+<div align="center"><img alt="Product Category Sub-Category Report" src="https://github.com/user-attachments/assets/27e9c1ea-f662-4763-9a8e-f84e633c2cd2"</div>
 
 
 
