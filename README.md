@@ -9,7 +9,7 @@ A project involving using SQL to set up a relational database model for an indep
 
 # BrightStar Boutique: Sales Report (Product Category/Sub-Category)
 
-<div align="center">![Product Category_Sub-Category Report](https://github.com/user-attachments/assets/b5596d96-6aaa-4e66-9918-c9b7dba6f0f7)</div>
+<div align="center"><img alt="Product Category_Sub-Category Report" src="https://github.com/user-attachments/assets/27e9c1ea-f662-4763-9a8e-f84e633c2cd2"</div>
 
 
 
