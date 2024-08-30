@@ -425,17 +425,5 @@ LEFT JOIN product AS prod
 GROUP BY prod.sub_category
 );
 
--- By Customer Location
-
--- By Customer Age
-
--- By Customer Gender
-
--- By Customer Membership Status
-
--- By Year
-
--- By Months
-
 -- END of Sales Analysis (Q1) 
 -----------------------------
