@@ -68,4 +68,17 @@ NOTE: **The metrics are sliced across Product Category and Sub-Category**
 
 <div align="center"><img alt="BrightStar Boutique Performance Dashboard" src="https://github.com/user-attachments/assets/cb5268fe-0946-429b-be98-ddaba67e96d8"</div>
 
+<div align="left">
+
+  ## Overview:
+
+**This dashboard is comprised of three seperate views**
+1. Company Sales Overview - presents total sales by year and month, yearly growth rates, and monthly sales averages.
+2. Product Breakdown - presents product sales breakdowns by category and sub-category, highest selling and lowest selling products, and a treemap of product categories.
+3. Customer Breakdown - presents total customers, customer demographic information including age, location, and gender, and top customers by sales.
+
+NOTE: **Dashboards are interactive and include the ability to be filtered**
+
+</div>
+
 </div>
