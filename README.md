@@ -79,6 +79,8 @@ NOTE: **The metrics are sliced across Product Category and Sub-Category**
 
 NOTE: **Dashboards are interactive and include the ability to be filtered**
 
+To interact with the full dashboard click [here](https://www.google.com).
+
 </div>
 
 </div>
