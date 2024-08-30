@@ -2,14 +2,9 @@
 -- KPI Driven Business Analysis
 ---------------------------------------------
 
--- Business Questions
+-- Business Question
 
 -- (Q1) Perform a sales analysis to get a picture of the sales performance of the boutique as well as help identify what is working well and what might need to be changed
-
--- (2) Perform a customer analysis highlighting top customers, membership rates, the effect of customer demographics on purchasing behavior, and patterns among repeat customers
-
--- (3) Create a report documenting the effect of the membership program on the companies performance
-
 
 -- Analysis
 
