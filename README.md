@@ -79,7 +79,7 @@ NOTE: **The metrics are sliced across Product Category and Sub-Category**
 
 NOTE: **Dashboards are interactive and include the ability to be filtered**
 
-To interact with the full dashboard click [here](https://www.google.com).
+To interact with the full dashboard click [here](https://public.tableau.com/views/BrightStarBoutiqueDashboardsVisualizations/CompanySalesOverviewDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 </div>
 
